@@ -1,0 +1,19 @@
+ul{
+  list-style-type: none;
+}
+
+.title{
+  font-size: large;
+}
+
+body {
+  background-color:rgb(176, 200, 209);
+}
+
+label {
+  font-size: larger;
+}
+
+table {
+  font-weight: 500;
+}
